@@ -1,8 +1,8 @@
-#Overview
+**Overview**
 
 The project aims to provide a comprehensive solution for managing airline bookings, including passenger information, airport data, flight schedules, and booking services.
 
-##Features
+**Features**
 
 Backend: Utilizes Java with Spring Boot framework for building RESTful APIs to handle requests from the frontend.
 Frontend: Implements the user interface using React library for dynamic and interactive user experience.
